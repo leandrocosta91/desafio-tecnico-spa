@@ -11,4 +11,4 @@ Após os passos acima, caso tenha o docker instalado, pode executar:
 O projeto possui dois seeders: um da tabela produtos e outro da tabela campanhas.
 
 Para executar o seed, digite o seguinte comando:
-php artisan db:seed
+1. php artisan db:seed
